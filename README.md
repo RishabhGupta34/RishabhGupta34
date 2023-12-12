@@ -1,9 +1,5 @@
 <h1 align='center'> Hi there, I'm Rishabh Gupta </h1>
 <!-- ![Visitor Count]() -->
-<p align='center'>
-  <img src="https://img.shields.io/badge/dynamic/json?color=054C8A&labelColor=033057&label=Profile%20Views&prefix=%20&query=value&suffix=%20&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FRishabhGupta34%2Fecfc869b-0c97-4e43-ba47-f9d06ca0c182&style=for-the-badge&logo=github">
-</p>
-<br>
 
 <h2 align='center'> Let's Connect </h1>
 <p align='center'> 

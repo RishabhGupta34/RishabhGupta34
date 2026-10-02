@@ -32,6 +32,7 @@
 <br>
 <br>
 
+<!-- 
 <h2 align='center'> GitHub Stats </h1>
 <p align='center'> 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhgupta34&include_all_commits=true&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage">
